@@ -1,15 +1,15 @@
 # Alarm Clock App 🕰
 
-* Task 3- Android App Development Internship in CodSoft
+ Task 3- Android App Development Internship in CodSoft
 This Android application allows users to set and manage alarms, ensuring they stay on schedule.
 
-##✨ Features
+✨ Features
 - Set multiple alarms with custom times and labels
 - Simple and clean UI
 - Works offline
 - Built using Java in Android Studio
 
-##🛠 Tech Stack
+🛠 Tech Stack
 - Java
 - Android Studio
 - ConstraintLayout
